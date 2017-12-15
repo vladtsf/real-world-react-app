@@ -11,4 +11,5 @@ Reusability is a matter of many compromises. Should complexity live in one place
 ### Authors
 
 [Ryan A Booth](https://github.com/ryanabooth)
+
 [Vlad Tsvang](https://github.com/vladtsf)
