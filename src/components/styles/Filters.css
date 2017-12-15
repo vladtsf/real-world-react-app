@@ -1,0 +1,11 @@
+.Filters__button {
+  background: none;
+  border: 0;
+  color: blue;
+  cursor: pointer;
+  outline: 0;
+}
+
+.Filters__button_active {
+  text-decoration: underline;
+}
